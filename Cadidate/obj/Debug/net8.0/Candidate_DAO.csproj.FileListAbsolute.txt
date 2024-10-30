@@ -1,0 +1,15 @@
+C:\Users\vuhuu\source\repos\CandidateManagement_PRN221_Huyvhse173535\Cadidate\bin\Debug\net8.0\Candidate_DAO.deps.json
+C:\Users\vuhuu\source\repos\CandidateManagement_PRN221_Huyvhse173535\Cadidate\bin\Debug\net8.0\Candidate_DAO.dll
+C:\Users\vuhuu\source\repos\CandidateManagement_PRN221_Huyvhse173535\Cadidate\bin\Debug\net8.0\Candidate_DAO.pdb
+C:\Users\vuhuu\source\repos\CandidateManagement_PRN221_Huyvhse173535\Cadidate\bin\Debug\net8.0\Candidate_BussinessObjects.dll
+C:\Users\vuhuu\source\repos\CandidateManagement_PRN221_Huyvhse173535\Cadidate\bin\Debug\net8.0\Candidate_BussinessObjects.pdb
+C:\Users\vuhuu\source\repos\CandidateManagement_PRN221_Huyvhse173535\Cadidate\obj\Debug\net8.0\Candidate_DAO.csproj.AssemblyReference.cache
+C:\Users\vuhuu\source\repos\CandidateManagement_PRN221_Huyvhse173535\Cadidate\obj\Debug\net8.0\Candidate_DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuhuu\source\repos\CandidateManagement_PRN221_Huyvhse173535\Cadidate\obj\Debug\net8.0\Candidate_DAO.AssemblyInfoInputs.cache
+C:\Users\vuhuu\source\repos\CandidateManagement_PRN221_Huyvhse173535\Cadidate\obj\Debug\net8.0\Candidate_DAO.AssemblyInfo.cs
+C:\Users\vuhuu\source\repos\CandidateManagement_PRN221_Huyvhse173535\Cadidate\obj\Debug\net8.0\Candidate_DAO.csproj.CoreCompileInputs.cache
+C:\Users\vuhuu\source\repos\CandidateManagement_PRN221_Huyvhse173535\Cadidate\obj\Debug\net8.0\Candidat.A763094E.Up2Date
+C:\Users\vuhuu\source\repos\CandidateManagement_PRN221_Huyvhse173535\Cadidate\obj\Debug\net8.0\Candidate_DAO.dll
+C:\Users\vuhuu\source\repos\CandidateManagement_PRN221_Huyvhse173535\Cadidate\obj\Debug\net8.0\refint\Candidate_DAO.dll
+C:\Users\vuhuu\source\repos\CandidateManagement_PRN221_Huyvhse173535\Cadidate\obj\Debug\net8.0\Candidate_DAO.pdb
+C:\Users\vuhuu\source\repos\CandidateManagement_PRN221_Huyvhse173535\Cadidate\obj\Debug\net8.0\ref\Candidate_DAO.dll

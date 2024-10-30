@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Candidate_BussinessObjects</id>
+    <version>1.0.0</version>
+    <authors>Candidate_BussinessObjects</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.Data.SqlClient" version="5.2.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="8.0.8" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\vuhuu\source\repos\CandidateManagement_PRN221_Huyvhse173535\CadidateBussinessObjects\bin\Debug\net8.0\Candidate_BussinessObjects.runtimeconfig.json" target="lib\net8.0\Candidate_BussinessObjects.runtimeconfig.json" />
+    <file src="C:\Users\vuhuu\source\repos\CandidateManagement_PRN221_Huyvhse173535\CadidateBussinessObjects\bin\Debug\net8.0\Candidate_BussinessObjects.dll" target="lib\net8.0\Candidate_BussinessObjects.dll" />
+  </files>
+</package>

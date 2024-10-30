@@ -1,0 +1,11 @@
+C:\Users\vuhuu\source\repos\PRN221PE_FA22_TrialTest_Huyvhse173535\Cadidate\bin\Debug\net8.0\Cadidate.deps.json
+C:\Users\vuhuu\source\repos\PRN221PE_FA22_TrialTest_Huyvhse173535\Cadidate\bin\Debug\net8.0\Cadidate.dll
+C:\Users\vuhuu\source\repos\PRN221PE_FA22_TrialTest_Huyvhse173535\Cadidate\bin\Debug\net8.0\Cadidate.pdb
+C:\Users\vuhuu\source\repos\PRN221PE_FA22_TrialTest_Huyvhse173535\Cadidate\obj\Debug\net8.0\Cadidate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuhuu\source\repos\PRN221PE_FA22_TrialTest_Huyvhse173535\Cadidate\obj\Debug\net8.0\Cadidate.AssemblyInfoInputs.cache
+C:\Users\vuhuu\source\repos\PRN221PE_FA22_TrialTest_Huyvhse173535\Cadidate\obj\Debug\net8.0\Cadidate.AssemblyInfo.cs
+C:\Users\vuhuu\source\repos\PRN221PE_FA22_TrialTest_Huyvhse173535\Cadidate\obj\Debug\net8.0\Cadidate.csproj.CoreCompileInputs.cache
+C:\Users\vuhuu\source\repos\PRN221PE_FA22_TrialTest_Huyvhse173535\Cadidate\obj\Debug\net8.0\Cadidate.dll
+C:\Users\vuhuu\source\repos\PRN221PE_FA22_TrialTest_Huyvhse173535\Cadidate\obj\Debug\net8.0\refint\Cadidate.dll
+C:\Users\vuhuu\source\repos\PRN221PE_FA22_TrialTest_Huyvhse173535\Cadidate\obj\Debug\net8.0\Cadidate.pdb
+C:\Users\vuhuu\source\repos\PRN221PE_FA22_TrialTest_Huyvhse173535\Cadidate\obj\Debug\net8.0\ref\Cadidate.dll
